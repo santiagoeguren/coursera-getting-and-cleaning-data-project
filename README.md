@@ -3,7 +3,7 @@
 
 
 
-  1-Download the dataset in yours directory
+  1-Download the dataset from yours directory
   
   2-Load the activity and feature 
   
