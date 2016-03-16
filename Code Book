@@ -87,9 +87,9 @@ fBodyBodyGyroJerkMagMeanFreq
 
 Activity Labels
 
-WALKING (value 1): people was walking 
-WALKING_UPSTAIRS (value 2): people was walking up a staircase 
-WALKING_DOWNSTAIRS (value 3): people was walking down a staircase 
-SITTING (value 4): people was sitting 
-STANDING (value 5): people was standing 
-LAYING (value 6): people was laying down 
+WALKING (nº 1): people was walking 
+WALKING_UPSTAIRS (nº 2): people was walking up a staircase 
+WALKING_DOWNSTAIRS (nº 3): people was walking down a staircase 
+SITTING (nº 4): people was sitting 
+STANDING (nº 5): people was standing 
+LAYING (nº6): people was laying down 
