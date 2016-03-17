@@ -9,8 +9,12 @@
   
   3-Loads both the training and test , only which reflect a mean or standard deviation
   
-Loads the activity and subject data for each dataset, and merges those columns with the dataset
-Merges the two datasets
-Converts the activity and subject columns into factors
-Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
-The end result is shown in the file tidy.txt.
+  4-Loads the activity and subject  for each dataset, and merges
+  
+  5- Merges the two data
+  
+  6-Converts the activity and subject  into factors
+  
+  7- Creates a tidy dataset that consists of the average of each variable for each subject and activity.
+
+  8-Export to tidy.txt.
